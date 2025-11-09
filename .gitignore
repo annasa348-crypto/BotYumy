@@ -1,0 +1,15 @@
+# Ignorar carpeta compilada por Maven
+target/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos de IDEs
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
